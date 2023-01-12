@@ -1,0 +1,27 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+å
+\descovery-server/src/main/java/com/capgemini/descoveryserver/DescoveryServerApplication.java,6\9\696d2df6e6e0952058d66c5c5c1fb4b470a658b2
+K
+Owner-Microservices/pom.xml,4\b\4b02db71606d80776373797f5c849522865e7cb5
+ì
+cOwner-Microservices/src/main/java/com/example/OwnerMicroservices/OwnerMicroservicesApplication.java,7\3\73d3099d084e519503e2b3495c7dcea197508d4d
+è
+_Owner-Microservices/src/main/java/com/example/OwnerMicroservices/controller/AuthController.java,a\1\a1feb3c2084aac46d7ab5902c054545cfd77ff86
+ü
+oOwner-Microservices/src/main/java/com/example/OwnerMicroservices/controller/EmployeeRestTemplateController.java,2\9\2932da42be72dbd35c428f291f73023520ae5720
+ì
+cManger-Microservice/src/main/java/com/example/MangerMicroservice/MangerMicroserviceApplication.java,6\8\686be7855ff11db205f66158a93a77291c749cb0
+•
+uReceptionist-Microservice/src/main/java/com/example/ReceptionistMicroservice/ReceptionistMicroserviceApplication.java,9\d\9dba2b70289f645c34cf87c42e5aad619d68de03
+õ
+kReceptionist-Microservice/src/main/java/com/example/ReceptionistMicroservice/controller/AuthController.java,c\b\cbda02a8dcb4fc7b19e73638676ddefb3447338c
+ú
+lReceptionist-Microservice/src/main/java/com/example/ReceptionistMicroservice/controller/GuestController.java,3\9\396a284756ccf431c259b07ee7ec9b1405579406
+õ
+kReceptionist-Microservice/src/main/java/com/example/ReceptionistMicroservice/controller/RoomController.java,a\c\acbb994f48c161c588bb053c7e9c1d0f451c8ebf
+™
+zReceptionist-Microservice/src/test/java/com/example/ReceptionistMicroservice/ReceptionistMicroserviceApplicationTests.java,a\4\a404c0aac0cef88111336a4f7a0f4e25bf72d7c5
+ç
+]Receptionist-Microservice/src/main/java/com/example/ReceptionistMicroservice/entity/Room.java,b\9\b9ca92ae654db0055a50f3bddff67962fe339800

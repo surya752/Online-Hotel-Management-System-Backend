@@ -1,0 +1,12 @@
+
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(À‹ï¨ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í«ï±üÿÿÿÿ
+V
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(ùÙÍ
+[
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(¹îÈƒşÿÿÿÿ
+U
+java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(Õ¥½W
+]
+java:S1128"GRemove this unused import 'com.example.OwnerMicroservices.entity.Room'.(Úï®ş

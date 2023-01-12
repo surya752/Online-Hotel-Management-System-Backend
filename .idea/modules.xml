@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIGateway/APIGateway.iml" filepath="$PROJECT_DIR$/APIGateway/APIGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manger-Microservice/Manger-Microservice.iml" filepath="$PROJECT_DIR$/Manger-Microservice/Manger-Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Online-Hotel-Management-System-Backend-Capgemini.iml" filepath="$PROJECT_DIR$/.idea/Online-Hotel-Management-System-Backend-Capgemini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Owner-Microservices/Owner-Microservices.iml" filepath="$PROJECT_DIR$/Owner-Microservices/Owner-Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Receptionist-Microservice/Receptionist-Microservice.iml" filepath="$PROJECT_DIR$/Receptionist-Microservice/Receptionist-Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/descovery-server/descovery-server.iml" filepath="$PROJECT_DIR$/descovery-server/descovery-server.iml" />
+    </modules>
+  </component>
+</project>

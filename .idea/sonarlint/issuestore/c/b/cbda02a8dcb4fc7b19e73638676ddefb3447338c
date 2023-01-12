@@ -1,0 +1,10 @@
+
+@
+java:S54119"*Use the primitive boolean expression here.(‡Ö…²
+@
+java:S5411>"*Use the primitive boolean expression here.(Œ‰ÓŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìº‘Œøÿÿÿÿ
+A
+java:S1452&"&Remove usage of generic wildcard type.(ÝøÃ¬ýÿÿÿÿ
+<
+java:S14528"&Remove usage of generic wildcard type.(”Úùê

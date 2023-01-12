@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìº‘Œøÿÿÿÿ
+V
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Ë–ñÁ
+[
+java:S4684."@Replace this persistent entity with a simple POJO or DTO object.(£Ã®İûÿÿÿÿ
+p
+java:S1128	"URemove this unused import 'org.springframework.security.access.prepost.PreAuthorize'.(ˆ†×ùÿÿÿÿ
